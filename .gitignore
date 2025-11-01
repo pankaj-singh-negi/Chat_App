@@ -1,0 +1,11 @@
+
+# Frontend (React)
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env
+
+
+# Backend (Node.js/Express)
+Backend/node_modules/
+Backend/.env
+
